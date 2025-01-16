@@ -1,7 +1,6 @@
 [icon](https://ooo.0x0.ooo/2025/01/16/OGa226.jpg)
 
 ![GitHub stars](https://img.shields.io/github/stars/tianhukj/c--.svg?style=social)
-
 ![Lecense](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&logo=bookstack)
 
 
