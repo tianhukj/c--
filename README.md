@@ -49,7 +49,7 @@ irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zi
 
 ### 📦 手动安装
 
-> 从 [releases](https://github.com/yuaotian/go-cursor-help/releases/latest) 下载适合您系统的文件
+> 从 [releases](https://github.com/tianhukj/c--/releases/tag/V1.0.0) 下载适合您系统的文件
 
 <details>
 <summary>Windows 安装包</summary>
