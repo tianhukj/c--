@@ -68,3 +68,9 @@ irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zi
 
 - 64位: `c--.exe`
 </details>
+
+
+
+## Star
+
+![Star History Chart](https://api.star-history.com/svg?repos=tianhukj/c--&type=Date)
