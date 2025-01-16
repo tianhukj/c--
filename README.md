@@ -18,12 +18,12 @@
 
 **Windows**
 ```powershell
-irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip | iex
+irm https://github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip | iex
 ```
 
 
 ```powershell
-irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip -OutFile "C:\desktop\C--\C--.zip"
+irm https://github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip -OutFile "C:\desktop\C--\C--.zip"
 ```
 
 </details>
@@ -36,6 +36,11 @@ irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zi
 ```powershell
 irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip | iex
 ```
+
+```powershell
+irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip -OutFile "C:\Your\Desired\Path\C--.zip"
+```
+
 </details>
 
 ### 💻 如何打开Windows管理员终端
