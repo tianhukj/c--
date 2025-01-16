@@ -1,6 +1,6 @@
 [icon](https://ooo.0x0.ooo/2025/01/16/OGa226.jpg)
 
-
+![GitHub stars](https://img.shields.io/github/stars/tianhukj/c--.svg?style=social)
 
 
 ### 🚀 一键解决方案
