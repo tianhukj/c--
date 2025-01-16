@@ -14,10 +14,6 @@
 <details open>
 <summary><b>海外用户</b></summary>
 
-**Linux/macOS**
-```bash
-curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/master/scripts/install.sh | sudo bash
-```
 
 **Windows**
 ```powershell
@@ -28,15 +24,6 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/master/scripts/ins
 <details open>
 <summary><b>国内用户（推荐）</b></summary>
 
-**macOS**
-```bash
-curl -fsSL https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip | sudo bash
-```
-
-**Linux**
-```bash
-curl -fsSL https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip | sudo bash
-```
 
 **Windows**
 ```powershell
@@ -59,3 +46,13 @@ irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zi
 - 🛡️ 通过 UAC 提示请求管理员权限
 - 📝 如果没有 PS7 则使用 Windows PowerShell
 - 💡 如果提权失败会提供手动说明
+
+### 📦 手动安装
+
+> 从 [releases](https://github.com/yuaotian/go-cursor-help/releases/latest) 下载适合您系统的文件
+
+<details>
+<summary>Windows 安装包</summary>
+
+- 64位: `c--.exe`
+</details>
