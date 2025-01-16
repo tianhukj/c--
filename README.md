@@ -20,6 +20,12 @@
 ```powershell
 irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip | iex
 ```
+
+
+```powershell
+irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zip -OutFile "C:\desktop\C--\C--.zip"
+```
+
 </details>
 
 <details open>
