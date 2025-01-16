@@ -1,4 +1,4 @@
-[icon](https://ooo.0x0.ooo/2025/01/16/OGa226.jpg)
+[icon](https://gh-proxy.com/github.com/tianhukj/c--/blob/main/icon.jpg)
 
 <div align="center">
   
