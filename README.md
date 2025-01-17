@@ -73,4 +73,4 @@ irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zi
 
 ## Star
 
-
+![github star history](https://api.star-history.com/svg?repos=tianhukj/c--&type=Date)
