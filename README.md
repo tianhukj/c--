@@ -78,3 +78,9 @@ irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zi
 
 ## 状态
 ![Alt](https://repobeats.axiom.co/api/embed/3cb2f47d5963b96d01bd0e920c8de84b87366f2d.svg "Repobeats analytics image")
+
+
+## Badges
+<div align="center">
+<a href="https://hellogithub.com/repository/75ad7ffedd404a6485b4d621ec5b47e6" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=75ad7ffedd404a6485b4d621ec5b47e6&claim_uid=beSz6INEkCM4mDH" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</div>
