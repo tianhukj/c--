@@ -71,6 +71,10 @@ irm https://gh-proxy.com/github.com/tianhukj/c--/releases/download/V1.0.0/C--.zi
 
 
 
-## Star
+## Star History
 
 ![github star history](https://api.star-history.com/svg?repos=tianhukj/c--&type=Date)
+
+
+## 状态
+![Alt](https://repobeats.axiom.co/api/embed/3cb2f47d5963b96d01bd0e920c8de84b87366f2d.svg "Repobeats analytics image")
